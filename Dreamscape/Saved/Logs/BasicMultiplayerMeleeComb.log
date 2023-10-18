@@ -5073,3 +5073,193 @@ Minimum required: 526.47
 [2023.10.18-07.59.26:630][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.00 sec (total: 17.9 sec)
 [2023.10.18-07.59.26:656][747]AssetCheck: New page: Asset Save: DemoMap
 [2023.10.18-07.59.26:656][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.DemoMap
+[2023.10.18-08.02.50:857][385]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2023.10.18-08.02.50:857][385]LogWindowsTextInputMethodSystem: Activated input method: Українська (Україна) - (Keyboard).
+[2023.10.18-08.03.20:969][964]LogShaderCompilers: Display: ================================================
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Total job queries 530, among them cache hits 113 (21.32%)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Tracking 390 distinct input hashes that result in 294 distinct outputs (75.38%)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: RAM used: 1,04 MiB of 1,60 GiB budget. Usage: 0.06%
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Shaders Compiled: 390
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Jobs assigned 398, completed 390 (97.99%)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Average time worker was idle: 27.58 s
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Time job spent in pending queue: average 13.87 s, longest 39.66 s
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 10.59 s
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Job life time (pending + execution): average 15.21 s, max 40.99
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.89 s
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Jobs were issued in 392 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Average processing rate: 6.62 jobs/sec
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Total thread time: 273,286 s
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Total thread preprocess time: 10,281 s
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Percentage time preprocessing: 3.76%
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   11 times, average 2.49 sec, max 10.48 sec, min 0.80 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.63 sec, max 1.63 sec, min 1.63 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   47 times, average 1.12 sec, max 1.77 sec, min 0.61 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.59% of total time (compiled   56 times, average 1.05 sec, max 1.77 sec, min 0.53 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.19% of total time (compiled   47 times, average 1.12 sec, max 1.77 sec, min 0.61 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.04% of total time (compiled   11 times, average 2.49 sec, max 10.48 sec, min 0.80 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.74% of total time (compiled   35 times, average 0.76 sec, max 1.20 sec, min 0.53 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 8.26% of total time (compiled   28 times, average 0.81 sec, max 1.20 sec, min 0.54 sec)
+[2023.10.18-08.03.20:970][964]LogShaderCompilers: Display: ================================================
+[2023.10.18-08.05.17:361][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.05.17:411][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.05.18:356][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.05.18:402][664]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.05.18:435][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.05.36:583][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BMMCSystem/Blueprints/GameModes/Multiplayer/BP_GM_MultiPlayer.BP_GM_Multiplayer
+[2023.10.18-08.05.36:585][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.05.36:585][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-08.05.37:726][735]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.18-08.07.01:363][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.18-08.07.01:532][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.10.18-08.07.03:305][928]LogSavePackage: Moving output files for package: /Game/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap
+[2023.10.18-08.07.03:306][928]LogSavePackage: Moving 'C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Saved/DemoMapB47133084310DFB7C7B5FDAB4600E40E.tmp' to 'C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap'
+[2023.10.18-08.07.03:327][928]LogFileHelpers: No new changes to save!
+[2023.10.18-08.07.03:327][928]LogFileHelpers: Saving map 'DemoMap' took 1.834
+[2023.10.18-08.07.03:334][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.97 sec (total: 19.9 sec)
+[2023.10.18-08.07.03:356][928]AssetCheck: New page: Asset Save: DemoMap
+[2023.10.18-08.07.03:356][928]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.DemoMap
+[2023.10.18-08.07.08:150][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.10.18-08.07.09:560][ 75]LogSlate: Window 'Save Content' being destroyed
+[2023.10.18-08.07.09:597][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.18-08.07.09:843][ 75]LogSavePackage: Moving output files for package: /Game/BMMCSystem/Blueprints/GameModes/Multiplayer/BP_GM_MultiPlayer
+[2023.10.18-08.07.09:843][ 75]LogSavePackage: Moving 'C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Saved/BP_GM_MultiPlayerA9CB7CE840FC8DDC8E18A994B8DD3E5E.tmp' to 'C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/BMMCSystem/Blueprints/GameModes/Multiplayer/BP_GM_MultiPlayer.uasset'
+[2023.10.18-08.07.09:855][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 20.1 sec)
+[2023.10.18-08.07.09:961][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.07.09:972][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BMMCSystem/Maps/Multiplayer/MultiplayerArena.MultiplayerArena
+[2023.10.18-08.07.09:972][ 75]Cmd: MAP LOAD FILE="C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/BMMCSystem/Maps/Multiplayer/MultiplayerArena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.18-08.07.09:972][ 75]LightingResults: New page: Lighting Build
+[2023.10.18-08.07.09:973][ 75]LoadErrors: New page: Loading map: MultiplayerArena.umap
+[2023.10.18-08.07.10:069][ 75]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-08.07.10:071][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-08.07.10:072][ 75]MapCheck: New page: Map Check
+[2023.10.18-08.07.10:072][ 75]LightingResults: New page: Lighting Build
+[2023.10.18-08.07.10:121][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.18-08.07.10:174][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.10.18-08.07.10:217][ 75]LogWorld: UWorld::CleanupWorld for MultiplayerArena, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-08.07.10:218][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-08.07.10:244][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.18-08.07.10:276][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.18-08.07.10:295][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'MultiplayerArena'.
+[2023.10.18-08.07.10:295][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.07.10:295][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-08.07.10:296][ 75]LogAIModule: Creating AISystem for world MultiplayerArena
+[2023.10.18-08.07.10:583][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.18-08.07.10:611][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.18-08.07.10:615][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.18-08.07.10:615][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,154ms to complete.
+[2023.10.18-08.07.10:615][ 75]LogFileHelpers: Loading map 'MultiplayerArena' took 0.643
+[2023.10.18-08.07.10:637][ 75]AssetCheck: New page: Asset Save: BP_GM_Multiplayer
+[2023.10.18-08.07.10:637][ 75]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BMMCSystem/Blueprints/GameModes/Multiplayer/BP_GM_MultiPlayer.BP_GM_Multiplayer
+[2023.10.18-08.07.10:701][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:701][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:701][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:702][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:702][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:702][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:703][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:703][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:703][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:703][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:704][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.10:704][ 75]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:974][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:974][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:975][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:975][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:975][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:976][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:976][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:976][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:977][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:977][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:977][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:978][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.14:979][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.46:938][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.10.18-08.07.47:769][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.07.48:079][143]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.DemoMap
+[2023.10.18-08.07.48:080][143]Cmd: MAP LOAD FILE="C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.18-08.07.48:080][143]LightingResults: New page: Lighting Build
+[2023.10.18-08.07.48:080][143]LoadErrors: New page: Loading map: DemoMap.umap
+[2023.10.18-08.07.48:083][143]LogWorld: UWorld::CleanupWorld for MultiplayerArena, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-08.07.48:083][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-08.07.48:083][143]MapCheck: New page: Map Check
+[2023.10.18-08.07.48:083][143]LightingResults: New page: Lighting Build
+[2023.10.18-08.07.48:143][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.18-08.07.48:151][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.10.18-08.07.48:177][143]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-08.07.48:195][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-08.07.48:374][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.18-08.07.48:419][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.10.18-08.07.49:076][143]LogAudio: Display: Audio Device (ID: 1) registered with world 'DemoMap'.
+[2023.10.18-08.07.49:076][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-08.07.49:076][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-08.07.49:076][143]LogAIModule: Creating AISystem for world DemoMap
+[2023.10.18-08.07.50:084][143]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.10.18-08.07.50:964][143]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049953s
+[2023.10.18-08.07.51:015][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.18-08.07.51:119][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.10.18-08.07.51:123][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.18-08.07.51:124][143]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,885ms to complete.
+[2023.10.18-08.07.51:124][143]LogFileHelpers: Loading map 'DemoMap' took 3.044
+[2023.10.18-08.07.51:127][143]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001060s (0.211809s overbudget)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: ================================================
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Total job queries 550, among them cache hits 126 (22.91%)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Tracking 424 distinct input hashes that result in 320 distinct outputs (75.47%)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: RAM used: 1,12 MiB of 1,60 GiB budget. Usage: 0.07%
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Shaders Compiled: 424
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Jobs assigned 424, completed 424 (100.00%)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Average time worker was idle: 26.53 s
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Time job spent in pending queue: average 13.09 s, longest 39.66 s
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 10.59 s
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Job life time (pending + execution): average 14.12 s, max 40.99
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.64 s
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Jobs were issued in 418 batches (only local compilation was used), average 1.01 jobs/batch
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Average processing rate: 6.66 jobs/sec
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Total thread time: 294,5 s
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Total thread preprocess time: 11,212 s
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Percentage time preprocessing: 3.81%
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Effective parallelization: 4.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   11 times, average 2.49 sec, max 10.48 sec, min 0.80 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.63 sec, max 1.63 sec, min 1.63 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.11 sec, max 1.60 sec, min 0.62 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.41% of total time (compiled   58 times, average 1.04 sec, max 1.77 sec, min 0.52 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.23% of total time (compiled   49 times, average 1.10 sec, max 1.77 sec, min 0.61 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.32% of total time (compiled   11 times, average 2.49 sec, max 10.48 sec, min 0.80 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.04% of total time (compiled   35 times, average 0.76 sec, max 1.20 sec, min 0.53 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 7.67% of total time (compiled   28 times, average 0.81 sec, max 1.20 sec, min 0.54 sec)
+[2023.10.18-08.07.51:541][143]LogShaderCompilers: Display: ================================================
+[2023.10.18-08.07.51:569][143]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:830][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:831][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:831][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:832][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:832][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:832][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:833][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:833][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:834][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:834][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.07.51:834][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.18-08.11.41:884][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.18-08.11.42:168][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.10.18-08.11.43:873][183]LogSavePackage: Moving output files for package: /Game/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap
+[2023.10.18-08.11.43:873][183]LogSavePackage: Moving 'C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Saved/DemoMap95840AE54D0F96352CFB38BBC07709B1.tmp' to 'C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap'
+[2023.10.18-08.11.43:895][183]LogFileHelpers: No new changes to save!
+[2023.10.18-08.11.43:895][183]LogFileHelpers: Saving map 'DemoMap' took 1.762
+[2023.10.18-08.11.43:900][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.01 sec (total: 22.1 sec)
+[2023.10.18-08.11.43:921][183]AssetCheck: New page: Asset Save: DemoMap
+[2023.10.18-08.11.43:921][183]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.DemoMap

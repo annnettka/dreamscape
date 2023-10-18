@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap",
+				"C:/Users/Anna/Documents/Unreal Projects/UE_Dreamscape/Dreamscape/Content/BMMCSystem/Blueprints/GameModes/Multiplayer/BP_GM_MultiPlayer.uasset",
 				"C:/Users/Anna/Documents/Unreal Projects/BasicMultiplayerMeleeComb/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap_BuiltData.uasset",
 				"C:/Users/Anna/Documents/Unreal Projects/BasicMultiplayerMeleeComb/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap",
 				"C:/Users/Anna/Documents/Unreal Projects/BasicMultiplayerMeleeComb/Content/Maps/DreamscapeSeries/DreamscapeTower/Maps/Showcase.umap",
